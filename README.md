@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Akash!
-👩🏻‍💻 Aspiring Software Engineer sharing my journey in tech and cybersecurity<br/>
+👩🏻‍💻 Aspiring Cybersecurity Engineer sharing my journey in tech, software and cybersecurity<br/>
 👩🏻‍🎓 Pursuing B.Tech in Computer Science and Engineering at SCMS School of Engineering and Technology<br/>
 🛡️ Exploring the world of ethical hacking, vulnerability assessment, and security monitoring<br/>
 📈 Following the stock market and global finance as a personal interest<br/>
