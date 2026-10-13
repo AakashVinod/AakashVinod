@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Akash!
 👩🏻‍💻 Aspiring Cybersecurity Professional with a strong interest in security operations, threat detection, and ethical hacking.<br/>
-👩🏻‍🎓 Computer Science and Engineering graduate<br/>
+👩🏻‍🎓 Computer Science and Engineering graduate.<br/>
 🛡️ Exploring vulnerability assessment, security monitoring, and cybersecurity best practices.<br/>
 ⚙️ Continuously learning about security tools, automation, and emerging cybersecurity technologies.<br/>
 💡 Passionate about building practical skills, solving real-world security challenges, and growing in the cybersecurity field.<br/>
-📈 Following the stock market and global finance as a personal interest<br/>
+📈 Following the stock market and global finance as a personal interest.<br/>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
