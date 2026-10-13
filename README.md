@@ -1,11 +1,13 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Akash!
-👩🏻‍💻 Aspiring Cybersecurity Engineer sharing my journey in tech, software and cybersecurity<br/>
-👩🏻‍🎓 Pursuing B.Tech in Computer Science and Engineering at SCMS School of Engineering and Technology<br/>
-🛡️ Exploring the world of ethical hacking, vulnerability assessment, and security monitoring<br/>
+👩🏻‍💻 Aspiring Cybersecurity Professional with a strong interest in security operations, threat detection, and ethical hacking.<br/>
+👩🏻‍🎓 Computer Science and Engineering graduate<br/>
+🛡️ Exploring vulnerability assessment, security monitoring, and cybersecurity best practices.<br/>
+⚙️ Continuously learning about security tools, automation, and emerging cybersecurity technologies.<br/>
+💡 Passionate about building practical skills, solving real-world security challenges, and growing in the cybersecurity field.<br/>
 📈 Following the stock market and global finance as a personal interest<br/>
-💭 Currently learning more about automation and cybersecurity trends<br/>
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AakashVinod&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
